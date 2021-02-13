@@ -170,5 +170,7 @@ config TAS2557_CODEC
 	bool "Codec Driver support"
 config TAS2557_MISC
 	bool "Misc Driver support"
+config SOUND_CONTROL
+	bool "Sound Control for msm89xx"
 
 endmenu
